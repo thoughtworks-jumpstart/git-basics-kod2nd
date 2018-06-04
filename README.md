@@ -26,3 +26,6 @@ Other useful commands to see what is going on the git repository:
 ## Discuss
 
 What is the difference between `add`, `commit`, and `push`?
+
+Making a change to the end of the file
+Adding lines
